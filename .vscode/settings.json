@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/tim/.platformio/penv/bin:/Users/tim/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/tim/esp/xtensa-esp32-elf/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
